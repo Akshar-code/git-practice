@@ -1,2 +1,1 @@
-Hello Worldgit add readme.txt
-Hello World
+Learning how to use Git using terminal haha
